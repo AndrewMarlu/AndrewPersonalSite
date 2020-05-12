@@ -103,3 +103,20 @@ a:hover {
     width: 40%;
     margin: 40px auto 60px;
 }
+
+.bottom-container {
+    background-color: #5cdb95;
+    padding: 40px 0 20px;
+}
+
+.footer-link {
+    margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #edf5e1;
+}
+
+.copyright {
+    font-size: 0.75rem;
+}
